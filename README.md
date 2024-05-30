@@ -1,6 +1,6 @@
 ## Hi, I’m  Ehsan 👋
 
-- 🔭 I’m currently working on a SmartHome fullstack project
+- 🔭 I’m currently working on a SmartHome Project
   
 <!--START_SECTION:waka-->
 🌱 I’m currently learning:
