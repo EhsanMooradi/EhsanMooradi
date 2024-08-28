@@ -1,8 +1,4 @@
-## Hi, I’m  Ehsan 👋
-
-- 🔭 I’m currently working on me to be a fullstack developer
-  
-<div style="text-align: center;">
+  <div style="text-align: center;">
   <img src="https://github.com/EhsanMooradi/EhsanMooradi/blob/main/giphy4.webp" height="250"/>
 </div>
 
