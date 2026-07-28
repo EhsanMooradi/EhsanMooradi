@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** · Angular + Spring Boot · Based in Germany 🇩🇪
 
-I build end-to-end features for enterprise software — owning everything from Angular frontend architecture down to Spring Boot REST APIs. Trained as a Fachinformatiker (Anwendungsentwicklung), now working as a full-stack developer on the ground-up rebuild of a legacy MES platform.
+I build end-to-end features for enterprise software — owning everything from Angular frontend architecture down to Spring Boot REST APIs. Trained as a Computer Science Expert (specializing in Software Development), now working as a full-stack developer on the ground-up rebuild of a legacy MES platform.
 
 ---
 
