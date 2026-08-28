@@ -35,12 +35,6 @@ I build end-to-end features for enterprise software — owning everything from A
 
 ---
 
-### 🔭 Currently working on
-
-**Meetguru** — a Meeting Assistant built with Angular + Spring Boot, featuring Microsoft OAuth2 integration and an AI-powered transcription & summarization pipeline.
-
----
-
 ### 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ehsan.moradi@outlook.de)
